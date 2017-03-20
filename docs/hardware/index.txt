@@ -21,7 +21,7 @@ you find the opportunity send us your contribution via git pull-request or mail.
 |Device|Flash|RAM|WAN port|2.4 GHz|5 GHz|LiMe target|LiMe profile|factory image |sysupgrade image
 |https://wiki.openwrt.org/toh/tp-link/tl-wr842nd[TP-Link WR842ND] ||||||||| 
 |https://wiki.openwrt.org/toh/tp-link/tl-wr1043nd[TP-Link WR1043ND-v1] ||||||||| 
-|https://wiki.openwrt.org/toh/tp-link/tl-wdr3500[TP-Link WDR3500] |||||||||
+|https://wiki.openwrt.org/toh/tp-link/tl-wdr3500[TP-Link WDR3500] |8 M |128 MB|Yes |Yes |Yes |ar71xx |generic |openwrt-15.05.1-ar71xx-generic-tl-wdr3500-v1-squashfs-factory.bin|openwrt-15.05.1-ar71xx-generic-tl-wdr3500-v1-squashfs-sysupgrade.bin
 |https://wiki.openwrt.org/toh/tp-link/tl-wdr3600[TP-Link WDR3600] |8 MB |128 MB |Yes |Yes |Yes |ar71xx |generic | tl-wdr3600-v1-squashfs-factory | tl-wdr3600-v1-squashfs-sysupgrade
 |https://wiki.openwrt.org/toh/tp-link/tl-wdr4300[TP-Link WDR4300] |||||||||
 |https://wiki.openwrt.org/toh/dragino/ms14[Dragino MS14] |||||||||
